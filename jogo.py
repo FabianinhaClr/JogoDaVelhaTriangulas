@@ -44,7 +44,7 @@ while True:
            (1, 2, 7), (1, 3, 9), (1, 5, 8), (2, 5, 6), (2, 4, 9), (5, 4, 3), (3, 6, 7), (4, 6, 8) \
            e caso todas as casas estiverem ocupadas e não houve vitória de niguém, dará Velha \
            Agora que vocês entenderam como funciona o jogo, espero que se divirtam. Bom jogo e boa sorte a amba das partes.")
-     print("Atenciosamente, Clara Antonelo e Luani APª P. Chaves!")
+     print("Atenciosamente, Clara Antonelo!")
 
      jogador = input("Qual você escolhe: X ou O?")
 
